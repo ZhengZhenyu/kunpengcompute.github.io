@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kunpeng Compute Team Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-30T03:27:29.697Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Kunpeng Team</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>鲲鹏计算团队博客开张啦！</title>
+    <link href="http://yoursite.com/2020/03/27/kun-peng-ji-suan-tuan-dui-bo-ke-kai-zhang-la/"/>
+    <id>http://yoursite.com/2020/03/27/kun-peng-ji-suan-tuan-dui-bo-ke-kai-zhang-la/</id>
+    <published>2020-03-27T03:37:41.000Z</published>
+    <updated>2020-03-30T03:27:29.697Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们将在这里分享关于鲲鹏计算相关的技术、开源、生态的点滴。</p><p>欢迎关注！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我们将在这里分享关于鲲鹏计算相关的技术、开源、生态的点滴。&lt;/p&gt;
+&lt;p&gt;欢迎关注！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
